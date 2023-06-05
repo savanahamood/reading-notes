@@ -1,5 +1,5 @@
 # reading-notes
-Code 401 - *Class 1 readings *
+# Code 401 - *Class 1 readings *
 
 1.How would you describe Node to a non-technical friend?
 i can ask him first if he ask himself before how his favarite website has build, for example netflix website, so Node.js provides developers with a platform to write the server code using JavaScript. It allows them to handle things like user authentication, database operations, and delivering the content he see on the website it handles the requests he make when he is browsing Netflix it processes those requests, interacts with databases to fetch the necessary information, and sends back the responses to his web browser so he can see and enjoy the content.
@@ -21,7 +21,7 @@ my goals is understanding the Node.js, learning about best practices such as TDD
 
 
 
-Readings: Express, NPM, TDD, CI/CD
+# Readings: Express, NPM, TDD, CI/CD
 An introduction to NodeJS and Express
 
 1.Explain middleware, answer as though I were a non-technical recruiter.
