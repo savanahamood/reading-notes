@@ -68,3 +68,10 @@ Continuous Deployment takes automation a step further by automatically deploying
 3.Explain how GitHub fits into this process assuming the listener comes from a non-technical background
 using github make it easier to enables developers to work together, manage code changes, review code, and automate the testing and deployment processes using CI or CD
 
+
+
+# Data Structures and Algorithms
+1.What is 1 of the more important things you should consider when deciding which data structure is best suited to solve a particular problem?
+considering the operations you need to perform
+2.How can we ensure that we’ll avoid an infinite recursive call stack?
+Make sure to define base cases correctly so that the recursive function reaches a point where it no longer calls itself
