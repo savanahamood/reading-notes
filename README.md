@@ -1,6 +1,7 @@
 
 
 |       Table of contents                         |
+|------------|------------------------------------|
 | Class      |       The Topics                   |
 |------------|------------------------------------|
 | Class 1a   | [Node Ecosystem](NodeEcosystem.md)   |
