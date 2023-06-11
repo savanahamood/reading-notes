@@ -8,4 +8,5 @@
 | Class 2   | [Express REST API](ExpressRESTAPI.md)   |
 | Class 3   | [Big O](BigO.md)   |
 | Class 3   | [Linked List](LinkedList.md)   |
+| Class 3   | [Data Modeling](DataModeling.md)   |
 
