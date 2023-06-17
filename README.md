@@ -9,4 +9,6 @@
 | Class 3   | [Big O](BigO.md)   |
 | Class 3   | [Linked List](LinkedList.md)   |
 | Class 3   | [Data Modeling](DataModeling.md)   |
+| Class 6   | [Authentication](Authentication.md)   |
+
 
