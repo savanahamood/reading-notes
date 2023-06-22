@@ -11,6 +11,8 @@
 | Class 3   | [Data Modeling](DataModeling.md)   |
 | Class 6   | [Authentication](Authentication.md)   |
 | Class 7   | [Bearer Authorization](BearerAuthorization.md)   |
+| Class 8   | [Access Control (ACL)](ACL.md)   |
+
 
 
 
