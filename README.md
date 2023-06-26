@@ -12,6 +12,8 @@
 | Class 6   | [Authentication](Authentication.md)   |
 | Class 7   | [Bearer Authorization](BearerAuthorization.md)   |
 | Class 8   | [Access Control (ACL)](ACL.md)   |
+| Class 9   | [Authorization/Authentication](Authorization/Authentication.md)   |
+
 
 
 
