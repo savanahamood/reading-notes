@@ -16,6 +16,8 @@
 | Class 10   | [Stacks and Queues](StacksandQueues.md)   |
 | Class 11   | [Event Driven Applications](event.md)   |
 | Class 12   | [Socket.io](Socket-io.md)   |
+| Class 13   | [Message Queues](MessageQueues.md)   |
+
 
 
 
