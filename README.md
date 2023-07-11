@@ -17,6 +17,8 @@
 | Class 11   | [Event Driven Applications](event.md)   |
 | Class 12   | [Socket.io](Socket-io.md)   |
 | Class 13   | [Message Queues](MessageQueues.md)   |
+| Class 14   | [Event Driven Architecture](EventDrivenArchitecture.md)   |
+
 
 
 
