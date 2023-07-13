@@ -18,7 +18,9 @@
 | Class 12   | [Socket.io](Socket-io.md)   |
 | Class 13   | [Message Queues](MessageQueues.md)   |
 | Class 14   | [Event Driven Architecture](EventDrivenArchitecture.md)   |
-| Class 14   | [Trees](trees.md)   |
+| Class 15   | [Trees](trees.md)   |
+| Class 16   | [AWS](Aws.md)   |
+
 
 
 
