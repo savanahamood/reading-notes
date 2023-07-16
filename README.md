@@ -20,6 +20,8 @@
 | Class 14   | [Event Driven Architecture](EventDrivenArchitecture.md)   |
 | Class 15   | [Trees](trees.md)   |
 | Class 16   | [AWS](Aws.md)   |
+| Class 17   | [AWS: S3 and Lambda](S3.md)   |
+
 
 
 
