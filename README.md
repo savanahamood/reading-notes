@@ -22,6 +22,8 @@
 | Class 16   | [AWS](Aws.md)   |
 | Class 17   | [AWS: S3 and Lambda](S3.md)   |
 | Class 18   | [AWS: API, Dynamo and Lambda](API.md)   |
+| Class 19   | [AWS: Events](events.md)   |
+
 
 
 
