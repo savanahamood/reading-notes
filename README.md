@@ -21,6 +21,7 @@
 | Class 15   | [Trees](trees.md)   |
 | Class 16   | [AWS](Aws.md)   |
 | Class 17   | [AWS: S3 and Lambda](S3.md)   |
+| Class 18   | [AWS: API, Dynamo and Lambda](API.md)   |
 
 
 
