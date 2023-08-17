@@ -25,6 +25,8 @@
 | Class 19   | [AWS: Events](events.md)   |
 | Class 26   | [Component Based UI](ComponentBasedUI.md)   |
 | Class 27   | [Hook](Hook.md)   |
+| Class 28   | [Component Lifecycle / useEffect Hook](useEffectHook.md)   |
+
 
 
 
