@@ -24,6 +24,8 @@
 | Class 18   | [AWS: API, Dynamo and Lambda](API.md)   |
 | Class 19   | [AWS: Events](events.md)   |
 | Class 26   | [Component Based UI](ComponentBasedUI.md)   |
+| Class 27   | [Hook](Hook.md)   |
+
 
 
 
