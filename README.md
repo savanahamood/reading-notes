@@ -27,6 +27,8 @@
 | Class 27   | [Hook](Hook.md)   |
 | Class 28   | [Component Lifecycle / useEffect Hook](useEffectHook.md)   |
 | Class 29   | [Advanced State with Reducers](reducers.md)   |
+| Class 29   | [Hash Tables](hash.md)   |
+
 
 
 
