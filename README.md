@@ -30,6 +30,9 @@
 | Class 29   | [Hash Tables](hash.md)   |
 | Class 30   | [Context API](ContextAPI.md)   |
 | Class 31   | [Context API - Behaviors](ContextAPIBehaviors.md)   |
+| Class 33   | [Login and Auth](login.md)   |
+| Class 34   | [API Integration](apiInt.md)   |
+
 
 
 
