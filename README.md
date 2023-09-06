@@ -33,6 +33,8 @@
 | Class 33   | [Login and Auth](login.md)   |
 | Class 34   | [API Integration](apiInt.md)   |
 | Class 35   | [Application State with Redux](appwithRedux.md)   |
+| Class 35   | [Graphs](graphs.md)   |
+
 
 
 
